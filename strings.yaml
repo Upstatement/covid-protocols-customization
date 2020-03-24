@@ -1,12 +1,12 @@
 branding:
-  name: About Library 
-  org: The New York Times
-  orgDomain: nytimes.com
-  prettyName: About Library
+  name: Covid Protocols
+  org: Brigham and Women's Hospitals
+  orgDomain: covidprotocols.org
+  prettyName: Covid Protocols
   favicon: /assets/images/library.ico
 
 landing:
-  tagline: A simple documentation site, built from content in Google Docs.
+  tagline: COVID-19 Critical Care Clinical Guidelines
   viewAll: View All Docs
   quickLink: <a href="/get-started">Get started</a>.
 

@@ -1,19 +1,19 @@
 {
-  "name": "library-customization-example",
+  "name": "covid-protocols-customization",
   "version": "1.0.0",
-  "description": "Sample customizations for your Library instance",
+  "description": "NYT Library customization for Covid Protocols",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nytimes/library-customization-example.git"
+    "url": "git+https://github.com/Upstatement/covid-protocols-customization.git"
   },
-  "author": "The New York Times",
+  "author": "Michael Pelletier <michael.pelletier@upstatement.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nytimes/library-customization-example/issues"
+    "url": "https://github.com/Upstatement/covid-protocols-customization/issues"
   },
-  "homepage": "https://github.com/nytimes/library-customization-example#readme",
+  "homepage": "https://github.com/Upstatement/covid-protocols-customization#readme",
   "dependencies": {
     "cache-manager-ioredis": "^1.0.1",
     "express-sslify": "^1.2.0"

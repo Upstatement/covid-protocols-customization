@@ -1,6 +1,4 @@
-Library Customization Example
+Library Customization for Covid Protocols
 =============================
 
-This is a deployable example for customizing [Library](https://github.com/nytimes/library). It also powers the [Library demo and documentation site](https://nyt-library-demo.herokuapp.com).
-
-For more information about how to customize Library, consult [the customization README](https://github.com/nytimes/library/blob/master/custom/README.md) in the main repo.
+This is a customization of [Library](https://github.com/nytimes/library) used for [Covid Protocols](http://www.covidprotocols.org).
